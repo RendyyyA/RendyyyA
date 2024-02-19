@@ -6,7 +6,7 @@ Saya merupakan **Mahasiswa Aktif** jurusan **Sistem Informasi** di [Universitas 
 
 Saya aktif dalam mengikuti Unit Kegiatan Mahasiswa (UKM), yaitu **UKM Basket**.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rendy-arvian-wijaya/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rendy-arvian-wijaya/) saya ya.
 
 ### Github Statistic
 <p align="left">
